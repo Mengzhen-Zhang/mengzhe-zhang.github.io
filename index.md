@@ -8,7 +8,7 @@ I work on theoreis of quantum information & compuation, quantum sensing, optomec
 
 ### Preprints
 1.  M.  Zhang,  W.  Sweeney,  C.  W.  Hsu,  L.  Yang,  A.  Stone,and L. Jiang, Quantum noise theory of exceptional pointsensors, arXiv preprint arXiv:1805.12001  (2018).
-2.  C. Zhong, Z. Wang, C. Zou, M. Zhang, X. Han, W. Fu,M. Xu, S. Shankar, M. H. Devoret, H. X. Tang,et al., Her-alded  generation  and  detection  of  entangled  microwave–optical  photon  pairs,  arXiv  preprint  arXiv:1901.08228(2019).
+2.  C. Zhong, Z. Wang, C. Zou, M. Zhang, X. Han, W. Fu,M. Xu, S. Shankar, M. H. Devoret, H. X. Tang,et al., Her-alded  generation  and  detection  of  entangled  microwave–optical  photon  pairs,  arXiv  preprint  arXiv:1901.08228 (2019).
 
 ### Publications
 1.  L. Feng,  P. Li,  M. Zhang,  T. Wang, and Y. Xiao, Tran-sition linewidth of cross correlations in random intensityfluctuations in electromagnetically induced transparency,Physical Review A **89**, 013815 (2014).
