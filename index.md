@@ -11,13 +11,13 @@ I work on theoreis of quantum information & compuation, quantum sensing, optomec
 2.  C. Zhong, Z. Wang, C. Zou, M. Zhang, X. Han, W. Fu,M. Xu, S. Shankar, M. H. Devoret, H. X. Tang,et al., Her-alded  generation  and  detection  of  entangled  microwave–optical  photon  pairs,  arXiv  preprint  arXiv:1901.08228(2019).
 
 ### Publications
-1.  L. Feng,  P. Li,  M. Zhang,  T. Wang, and Y. Xiao, Tran-sition linewidth of cross correlations in random intensityfluctuations in electromagnetically induced transparency,Physical Review A89, 013815 (2014).
-2.  P. Peng, W. Qu, L. Zheng, S. Shen, M. Zhang, W. Cao,C.  Lee,  J.  Wen,  L.  Jiang,  and  Y.  Xiao,  Observation  ofparity-time  symmetry  in  an  optical  system  formed  bymoving atoms, inFrontiers in Optics(Optical Society ofAmerica, 2014) pp. FTu5A–2.
-3.  J.  Wen,  X.  Jiang,  M.  Zhang,  L.  Jiang,  S.  Hua,  H.  Wu,C. Yang, and M. Xiao, Modeling of on-chip optical nonre-ciprocity with an active microcavity, inPhotonics, Vol. 2(Multidisciplinary Digital Publishing Institute, 2015) pp.498–508.
-4.  Z.-L. Xiang,  M. Zhang,  L. Jiang, and P. Rabl, Intracityquantum communication via thermal microwave networks,Physical Review X7, 011035 (2017).
-5.  C.  J.  Axline,   L.  D.  Burkhart,   W.  Pfaff,   M.  Zhang,K.  Chou,  P.  Campagne-Ibarcq,  P.  Reinhold,  L.  Frunzio,S.  Girvin,  L.  Jiang,et al.,  On-demand  quantum  statetransfer and entanglement between remote microwave cav-ity memories, Nature Physics14, 705 (2018).
-6.  S.  Zhou,  M. Zhang,  J. Preskill, and  L. Jiang,  Achievingthe heisenberg limit in quantum metrology using quantumerror correction, Nature communications9, 78 (2018).
-7.  S.  Zhou,  D.  Layden,  M.  Zhang,  J.  Preskill,  P.  Cappel-laro,  and  L.  Jiang,  Error-corrected  quantum  sensing,  inOptical, Opto-Atomic, and Entanglement-Enhanced Preci-sion Metrology, Vol. 10934 (International Society for Op-tics and Photonics, 2019) p. 109341J.
+1.  L. Feng,  P. Li,  M. Zhang,  T. Wang, and Y. Xiao, Tran-sition linewidth of cross correlations in random intensityfluctuations in electromagnetically induced transparency,Physical Review A **89**, 013815 (2014).
+2.  P. Peng, W. Qu, L. Zheng, S. Shen, M. Zhang, W. Cao,C.  Lee,  J.  Wen,  L.  Jiang,  and  Y.  Xiao,  Observation  ofparity-time  symmetry  in  an  optical  system  formed  bymoving atoms, in _Frontiers in Optics_(Optical Society of America, 2014)_ pp. FTu5A–2.
+3.  J.  Wen,  X.  Jiang,  M.  Zhang,  L.  Jiang,  S.  Hua,  H.  Wu,C. Yang, and M. Xiao, Modeling of on-chip optical nonre-ciprocity with an active microcavity, in _Photonics_, Vol. 2(Multidisciplinary Digital Publishing Institute, 2015) pp.498–508.
+4.  Z.-L. Xiang,  M. Zhang,  L. Jiang, and P. Rabl, Intracityquantum communication via thermal microwave networks, Physical Review X **7**, 011035 (2017).
+5.  C.  J.  Axline,   L.  D.  Burkhart,   W.  Pfaff,   M.  Zhang,K.  Chou,  P.  Campagne-Ibarcq,  P.  Reinhold,  L.  Frunzio,S.  Girvin,  L.  Jiang,et al.,  On-demand  quantum  statetransfer and entanglement between remote microwave cav-ity memories, Nature Physics **14**, 705 (2018).
+6.  S.  Zhou,  M. Zhang,  J. Preskill, and  L. Jiang,  Achievingthe heisenberg limit in quantum metrology using quantumerror correction, Nature communications **9**, 78 (2018).
+7.  S.  Zhou,  D.  Layden,  M.  Zhang,  J.  Preskill,  P.  Cappel-laro,  and  L.  Jiang,  Error-corrected  quantum  sensing,  in _Optical, Opto-Atomic, and Entanglement-Enhanced Preci-sion Metrology_, Vol. 10934 (International Society for Op-tics and Photonics, 2019) p. 109341J.
 
 
 
