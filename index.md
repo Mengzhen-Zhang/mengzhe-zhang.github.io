@@ -2,7 +2,7 @@
 
 I am a Ph.D candidate of the Department of Phyiscs of Yale University and an exchange student at University of Chicago for the academic year 2019-2020. My adviser is Liang Jiang who is a professor of Pritzker School of Molecular engineering at University of Chicago. I work on quantum information & compuation, quantum sensing, optomechanics, optics and condensed matter theory. 
 
-[comment]: # You can use the [editor on GitHub](https://github.com/Mengzhen-Zhang/mengzhen-zhang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[//]:<>(You can use the [editor on GitHub](https://github.com/Mengzhen-Zhang/mengzhen-zhang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
