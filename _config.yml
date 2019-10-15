@@ -1,6 +1,6 @@
-theme: jekyll-theme-minimal
-
----
-layout: post
 title: Mengzhen Zhang
----
+logo:
+description: Personal website of my academic experience.
+show_downloads:
+google_analytics:
+theme: jekyll-theme-minimal
