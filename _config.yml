@@ -3,4 +3,4 @@ logo:
 description: Personal website of my academic experience.
 show_downloads:
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
