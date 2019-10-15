@@ -20,34 +20,3 @@ Link to [Google Scholar](https://scholar.google.com/citations?user=KUd7teEAAAAJ&
 6.  S.  Zhou,  M. Zhang,  J. Preskill, and  L. Jiang,  Achievingthe heisenberg limit in quantum metrology using quantumerror correction, [Nature communications **9**, 78](https://www.nature.com/articles/s41467-017-02510-3) (2018).
 8. M. Zhang, C.-L. Zou, and L. Jiang, Quantum transduc-tion with adaptive control, [Physical review letters **120**,020502](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.020502) (2018).
 7.  S.  Zhou,  D.  Layden,  M.  Zhang,  J.  Preskill,  P.  Cappel-laro,  and  L.  Jiang,  Error-corrected  quantum  sensing,  in [_Optical, Opto-Atomic, and Entanglement-Enhanced Preci-sion Metrology_, Vol. 10934 (International Society for Op-tics and Photonics, 2019) p. 109341J](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10934/109341J/Error-corrected-quantum-sensing/10.1117/12.2511587.short).
-
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mengzhen-Zhang/mengzhen-zhang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
