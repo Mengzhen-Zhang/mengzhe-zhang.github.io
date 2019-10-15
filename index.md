@@ -7,10 +7,10 @@ I am a Ph.D candidate of the Department of Phyiscs of Yale University and an exc
 I work on theoreis of quantum information & compuation, quantum sensing, optomechanics, optics and condensed matter systems.
 
 ### Preprints
-1.  M.  Zhang,  W.  Sweeney,  C.  W.  Hsu,  L.  Yang,  A.  Stone,and L. Jiang, Quantum noise theory of exceptional pointsensors, arXiv preprint arXiv:1805.12001  (2018).
-2.  C. Zhong, Z. Wang, C. Zou, M. Zhang, X. Han, W. Fu,M. Xu, S. Shankar, M. H. Devoret, H. X. Tang,et al., Her-alded  generation  and  detection  of  entangled  microwave–optical  photon  pairs,  arXiv  preprint  arXiv:1901.08228 (2019).
+1.  M.  Zhang,  W.  Sweeney,  C.  W.  Hsu,  L.  Yang,  A.  Stone,and L. Jiang, Quantum noise theory of exceptional pointsensors, arXiv preprint [arXiv:1805.12001](https://arxiv.org/abs/1805.12001) (2018).
+2.  C. Zhong, Z. Wang, C. Zou, M. Zhang, X. Han, W. Fu,M. Xu, S. Shankar, M. H. Devoret, H. X. Tang,et al., Her-alded  generation  and  detection  of  entangled  microwave–optical  photon  pairs,  arXiv  preprint  [arXiv:1901.08228](https://arxiv.org/abs/1901.08228) (2019).
 
-### Publications
+### Publications [Google Scholar](https://scholar.google.com/citations?user=KUd7teEAAAAJ&hl=en&oi=ao)
 1.  L. Feng,  P. Li,  M. Zhang,  T. Wang, and Y. Xiao, Tran-sition linewidth of cross correlations in random intensityfluctuations in electromagnetically induced transparency,Physical Review A **89**, 013815 (2014).
 2.  P. Peng, W. Qu, L. Zheng, S. Shen, M. Zhang, W. Cao,C.  Lee,  J.  Wen,  L.  Jiang,  and  Y.  Xiao,  Observation  ofparity-time  symmetry  in  an  optical  system  formed  bymoving atoms, in _Frontiers in Optics_(Optical Society of America, 2014)_ pp. FTu5A–2.
 3.  J.  Wen,  X.  Jiang,  M.  Zhang,  L.  Jiang,  S.  Hua,  H.  Wu,C. Yang, and M. Xiao, Modeling of on-chip optical nonre-ciprocity with an active microcavity, in _Photonics_, Vol. 2(Multidisciplinary Digital Publishing Institute, 2015) pp.498–508.
