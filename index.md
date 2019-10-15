@@ -1,10 +1,12 @@
 # Affiliations
 
-I am a Ph.D candidate of the Department of Phyiscs of Yale University and an exchange student at University of Chicago for the academic year 2019-2020. My adviser is Liang Jiang who is a professor of Pritzker School of Molecular engineering at University of Chicago. I work on quantum information & compuation, quantum sensing, optomechanics, optics and condensed matter theory. 
+I am a Ph.D candidate of the Department of Phyiscs of Yale University and an exchange student at University of Chicago for the academic year 2019-2020. My adviser is Liang Jiang who is a professor of Pritzker School of Molecular engineering at University of Chicago.
 
-## Markdown
+# Research Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I work on theoreis of quantum information & compuation, quantum sensing, optomechanics, optics and condensed matter systems.
+
+
 
 ```markdown
 Syntax highlighted code block
