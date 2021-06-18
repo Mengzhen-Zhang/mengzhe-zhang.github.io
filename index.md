@@ -8,7 +8,7 @@ You can contact me through the following email address: <mengzhen@uchicago.edu>
 I work on theoreis of quantum information & compuation, quantum sensing, optomechanics, optics and condensed matter systems.
 
 ### Thesis
-[arXiv:1901.08228](https://arxiv.org/abs/1901.08228)
+Here is my [thesis](Thesis.pdf) for my Ph.D. degree from Yale University.
 
 ### Preprints
 1.  M.  Zhang,  W.  Sweeney,  C.  W.  Hsu,  L.  Yang,  A.  Stone,and L. Jiang, Quantum noise theory of exceptional pointsensors, arXiv preprint [arXiv:1805.12001](https://arxiv.org/abs/1805.12001) (2018).
