@@ -1,8 +1,8 @@
 ### Affiliations
 
-I am a Ph.D candidate of the Department of Phyiscs of Yale University and an exchange student at University of Chicago for the academic year 2019-2020. My adviser, [Liang Jiang](https://pme.uchicago.edu/jiang_group/liang_jiang/), is a professor of Pritzker School of Molecular engineering at University of Chicago.
+I am a postdoctoral researcher at Pritzker School of Molecular engineering of the University of Chicago.
 
-You can contact me through these email addresses: <mengzhen.zhang@yale.edu> or <mengzhen@uchicago.edu>
+You can contact me through these email addresses: <mengzhen@uchicago.edu>
 
 ### Reserach Interests
 
