@@ -1,0 +1,44 @@
+              <meta charset="utf-8" emacsmode="-*- markdown -*-">
+
+                            **Limits on adaptive control scheme**
+									 Mengzhen Zhang
+									   07/29/2022
+					
+
+Lemma of Boring Adaptive Contorl
+==============================================================================
+We consider a symplectic matrix
+\begin{equation}
+     \mathbf{S} = \mathrm{Id} \oplus \mathbf{S}'
+\end{equation}
+with $\mathrm{Id}$ an identity matrix of order $2n$ and $\mathbf{S}'$ a symplectic matrix of order $2m$. We regard $(m-1)$ modes asscociated with the $S'$ matrix as the ancilliary and idler modes (following the convention in [AQT][]). Then it turns out that the resulting effective symplectic matrix $\tilde{\mathbf{S}}$ is the direct sum of $(n+1)$ $2\times2$ symplectic matrices. This simple fact is a direct result of the main theorem in [AQT][]:
+\begin{equation}
+	\tilde{\mathbf{S}} = \mathbf{S}_{out, in} - \mathbf{S}_{out, sq}(\mathbf{S}_{h,sq})^{-1}\mathbf{S}_{h,in}
+\end{equation}
+where, in this particular situation, both the first term $\mathbf{S}_{out,in}$ and the last term $\mathbf{S}_{out, sq}(\mathbf{S}_{h,sq})^{-1}\mathbf{S}_{h,in}$ are obviously direct sums of $2\times 2$ matrices.
+
+This means a process as described above can only yield single mode operations through the [AQT][] protocol.
+
+
+Application of the lemma
+==============================================================================
+In the scenario of passing information through a beam-splitter allowing entanglment with extra ancilliary modes on the senders' side, we can formulate the symplectic matrix as
+\begin{equation}
+	\mathbf{S} = (\mathbf{B} \oplus \mathrm{Id}_m) (\mathrm{Id}_1 \oplus \mathbf{S}')
+\end{equation}
+with $\mathbf{B}$ the $4\times 4$ matrix representing the beam-splitter and $\mathbf{S}'$ the symplectic matrix describing the interaction between the ancillas and _one_ of the senders.
+
+In [AQT][], the output states are displaced to cancnel the added noise accoridng to the matrix $\mathbf{F} = \mathbf{S}_{out, sq}(\mathbf{S}_{h,sq})^{-1}$. Since both displacement and the beam-splitter operations are Gaussian, we can move the beamspltter operation after the displacement operation by only modifying the form of $\mathbf{F}$. The new $\mathbf{F}$, as required to completely cancel the noise, must be calculated from the new symplectic matrix $\mathrm{Id}_1 \oplus \mathbf{S'}$, which will only yield effective single-mode symplectic operations on the output modes, according to the lemma of boring adaptive control. Therefore, the final effective symplectic operations will be equivalent to the beamsplitter operation up to single-mode Gaussian operations.
+
+In other words, starting with a beam-splitter, we cannot obtain identity channel or QND channel with only adaptive control protocols.
+
+![](pics/pic.svg)
+
+
+
+
+[AQT]: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.020502
+
+
+<link rel="stylesheet" href="https://morgan3d.github.io/markdeep/latest/latex.css?">
+<!-- Markdeep: --><style class="fallback">body{visibility:hidden}</style><script src="https://morgan3d.github.io/markdeep/latest/markdeep.min.js?" charset="utf-8"></script>
