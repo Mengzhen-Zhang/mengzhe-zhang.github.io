@@ -2,5 +2,17 @@
 layout: default
 title: Home
 ---
-<h1>Welcome to my site</h1>
-<p>This is my home page.</p>
+{% for post in site.posts limit:10 %}
+<div class="post">
+	<h2><a href=".{{post.url}}" rel="bookmark" title="{{post.title}}">{{post.title}}</a></h2>
+	<small>{{post.date | date: "%B %d, %Y"}} by Daniel Hoelbling</small>
+
+	<div class="entry">
+		{{post.content}}
+	</div>
+	<p class="postmetadata">
+		<a href="{{post.id}}/#comments" title="Comment on {{page.title}}">
+			View Comments</a>
+	</p>
+</div>
+{% endfor %}
