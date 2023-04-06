@@ -3,4 +3,6 @@ logo:
 description: On my academic experience
 show_downloads:
 google_analytics:
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+- jekyll-remote-theme
