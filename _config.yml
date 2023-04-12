@@ -6,3 +6,5 @@ google_analytics:
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
 - jekyll-remote-theme
+header_pages:
+- index.html
