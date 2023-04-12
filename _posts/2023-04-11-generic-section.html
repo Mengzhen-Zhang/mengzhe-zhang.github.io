@@ -1,0 +1,34 @@
+---
+layout: post
+title: Generic sections are not "generic"
+excerpt:
+---
+
+<p>
+This is a note about my long-lasting misperception of the concept of generic sections of vector bundles. A generic section is a global section of a vector bundle transversal to the zero section which is obviously a global section. A theorem relates the generic sections to Chern classes: Chern classes of a vector bundle can be expressed as the Poincare duality of the degeneracy loci, regarded as the homological classes, of the generic sections (simply put). However, there is a trap in this statement that can be easily overlooked and hence lead to contradiction and confusion: Generic sections do no always exist. It took me very long to arrive at this conclusion which is still counter-intuitive to me; therefore, I would like to explain it in a simple example in hope that it could be helpful for people struggling with the same issue.
+</p>
+
+<p>
+Let us consider a rank-2 complex trivial vector bundle \(E\) over a 2-sphere \(S^2\) parameterized by the equation \(x^2+y^2+z^2=1\). Let \(\varphi: E \to E\) be a bundle map defined by the following matrix-valued function
+</p>
+\begin{equation}
+  \varphi|_{(x,y,z)} = \begin{pmatrix}
+              z & x + i y \\
+              x - i y & -z
+            \end{pmatrix}    
+\end{equation}
+<p>
+with two distinct constant eigenvalues \(\lambda_\pm = \pm1\). Furthermore, each eigen-value defines a line bundle (corresponding dented as \(L_\pm\)). The fibres of the line bundle defined by the eigen-value \(\lambda_{+}\) are of the form \(F_{(x,y,z)} = \mathrm{ker}[\varphi|_{(x,y,z)} - \mathrm{Id}]\); and the fibres of the line bundle defined by the eigen-value \(\lambda_{-}\) are likewise defined as \(F_{(x,y,z)} = \mathrm{ker}[\varphi|_{(x,y,z)} + \mathrm{Id}]\).
+</p>
+
+<p>
+Using Chern-Weil theory, one can easily check that each line bundle as is defined above is a non-trivial bundle. That is two say, each bundle admits a non-trivial first Chern class. In the meantime, the trivial bundle \(E\) is the direct sum of the two line bundles as the the bundle map \(\varphi\) does not admit non-trivial monodromy. It follows that \(c_1(L_-) = - c_1(L_+)\) as the first Chern class of \(E\) is trivial.
+</p>
+
+<p>
+Now suppose that each line bundle admits a generic section. Then the degeneracy locus (or equivalently, the vanishing locus) of each, through Poincare duality, should define \(c_1(L_\pm)\).  However, at this point, we must answer the following question: Where is the minus sign in the first Chern classes from? We note that the vanishing locus, viewed as a homological class, should be treated as the fundamental class of the submanifold consisting of the points in \(s^2\) where the generic section vanishes. Thus, the Chern class obtained through Poincare duality should always be "positive". This should hold true universally which then inevitably leads to a conflict between our assumption of the existence of generic sections and the constraint \(c_1(L_-) = -c_1(L_+)\). In other words, one must the line bundles corresponding to the two eigen-values of \(\varphi\) must admit <b>no</b> generic section (as a matter of fact, this conclusion applies to both of them).
+</p>
+
+<p>
+This simple example tells us that generic sections are not generically available as we can easily find simple examples where they are non-existent.
+</p>
